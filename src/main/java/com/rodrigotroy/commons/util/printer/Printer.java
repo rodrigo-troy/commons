@@ -1,6 +1,6 @@
-package com.rodrigotroy.util.printer;
+package com.rodrigotroy.commons.util.printer;
 
-import com.rodrigotroy.util.Validator;
+import com.rodrigotroy.commons.util.Validator;
 
 import java.util.ArrayList;
 import java.util.List;

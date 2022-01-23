@@ -1,4 +1,4 @@
-package com.rodrigotroy.util;
+package com.rodrigotroy.commons.util;
 
 import java.util.Calendar;
 import java.util.Date;

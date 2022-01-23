@@ -1,4 +1,4 @@
-package com.rodrigotroy.util;
+package com.rodrigotroy.commons.util;
 
 import org.apache.commons.lang3.StringUtils;
 

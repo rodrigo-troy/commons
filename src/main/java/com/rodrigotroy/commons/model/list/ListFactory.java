@@ -4,7 +4,7 @@ import com.rodrigotroy.commons.model.IListModel;
 import com.rodrigotroy.commons.model.datatable.DataTable;
 import com.rodrigotroy.commons.model.datatable.IDomainObjectMapper;
 import com.rodrigotroy.commons.model.datatable.IListHolder;
-import com.rodrigotroy.util.Validator;
+import com.rodrigotroy.commons.util.Validator;
 
 import java.util.List;
 

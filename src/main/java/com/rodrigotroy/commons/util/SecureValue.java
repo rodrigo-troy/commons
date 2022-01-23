@@ -1,4 +1,4 @@
-package com.rodrigotroy.util;
+package com.rodrigotroy.commons.util;
 
 import java.math.BigDecimal;
 import java.util.List;

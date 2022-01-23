@@ -1,4 +1,4 @@
-package com.rodrigotroy.util.printer;
+package com.rodrigotroy.commons.util.printer;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;

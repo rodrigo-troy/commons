@@ -1,4 +1,4 @@
-package com.rodrigotroy.util.printer;
+package com.rodrigotroy.commons.util.printer;
 
 import java.util.List;
 import java.util.Map;

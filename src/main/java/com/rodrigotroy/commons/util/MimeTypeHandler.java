@@ -1,4 +1,4 @@
-package com.rodrigotroy.util;
+package com.rodrigotroy.commons.util;
 
 public class MimeTypeHandler {
     private MimeTypeHandler() {

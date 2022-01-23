@@ -2,7 +2,7 @@ package com.rodrigotroy.commons.model;
 
 import com.rodrigotroy.commons.model.datatable.DataType;
 import com.rodrigotroy.commons.model.datatable.Header;
-import com.rodrigotroy.util.Validator;
+import com.rodrigotroy.commons.util.Validator;
 
 import java.util.ArrayList;
 import java.util.Arrays;

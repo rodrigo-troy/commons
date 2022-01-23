@@ -1,4 +1,4 @@
-package com.rodrigotroy.util;
+package com.rodrigotroy.commons.util;
 
 import com.rodrigotroy.commons.model.IDataTableModel;
 import com.rodrigotroy.commons.model.IListModel;

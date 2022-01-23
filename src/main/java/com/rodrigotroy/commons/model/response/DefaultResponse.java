@@ -5,7 +5,7 @@ import com.rodrigotroy.commons.model.DefaultListModel;
 import com.rodrigotroy.commons.model.IDataTableModel;
 import com.rodrigotroy.commons.model.IListModel;
 import com.rodrigotroy.commons.model.IMultiListModel;
-import com.rodrigotroy.util.Validator;
+import com.rodrigotroy.commons.util.Validator;
 
 /**
  * Created with IntelliJ IDEA.

@@ -1,7 +1,7 @@
 package com.rodrigotroy.commons.model.datatable;
 
 
-import com.rodrigotroy.util.Validator;
+import com.rodrigotroy.commons.util.Validator;
 
 import java.util.ArrayList;
 import java.util.List;
