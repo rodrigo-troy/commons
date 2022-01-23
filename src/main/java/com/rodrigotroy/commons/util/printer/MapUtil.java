@@ -12,7 +12,7 @@ public class MapUtil {
         throw new IllegalStateException("Utility class");
     }
 
-    public static String convertTOstring(Map<String, Object> map) {
+    public static String convertToString(Map<String, Object> map) {
         if (map != null) {
             StringBuilder sb = new StringBuilder(map.size() * 2);
             sb.append("(");
