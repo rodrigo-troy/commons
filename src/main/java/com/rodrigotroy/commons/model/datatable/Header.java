@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gather-commons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 27-07-16
  * Time: 11:24

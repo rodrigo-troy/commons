@@ -2,7 +2,7 @@ package com.rodrigotroy.commons.model;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gather-commons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 8/8/17
  * Time: 11:56

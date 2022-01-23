@@ -11,20 +11,20 @@ import java.util.List;
  */
 public interface IAutocompleteModel {
 
-    public List<List<Object>> getHeaders();
+    List<List<Object>> getHeaders();
 
-    public void setHeaders(List<List<Object>> headers);
+    void setHeaders(List<List<Object>> headers);
 
-    public List<List<Object>> getRows();
+    List<List<Object>> getRows();
 
-    public void setRows(List<List<Object>> rows);
+    void setRows(List<List<Object>> rows);
 
-    public List<List<Object>> getTitles();
+    List<List<Object>> getTitles();
 
-    public void setTitles(List<List<Object>> titles);
+    void setTitles(List<List<Object>> titles);
 
-    public Object getSelectedObject();
+    Object getSelectedObject();
 
-    public void setSelectedObject(Object selectedObject);
+    void setSelectedObject(Object selectedObject);
 
 }

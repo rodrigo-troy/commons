@@ -2,13 +2,13 @@ package com.rodrigotroy.commons.model.response;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gather-commons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 7/3/17
  * Time: 16:57
  */
 public class WarnResponse implements IResponse {
-    private String message;
+    private final String message;
     private String detail;
 
     public WarnResponse(String message) {

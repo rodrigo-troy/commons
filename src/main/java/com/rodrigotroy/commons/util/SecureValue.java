@@ -6,7 +6,7 @@ import java.util.Optional;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gather-commons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 4/5/17
  * Time: 18:20

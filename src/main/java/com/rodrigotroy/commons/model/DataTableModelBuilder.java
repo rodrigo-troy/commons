@@ -12,7 +12,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gathercommons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 1/30/18
  * Time: 15:09

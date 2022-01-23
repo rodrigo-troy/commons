@@ -9,7 +9,7 @@ import com.rodrigotroy.commons.util.Validator;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gather-commons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 29-03-16
  * Time: 15:48

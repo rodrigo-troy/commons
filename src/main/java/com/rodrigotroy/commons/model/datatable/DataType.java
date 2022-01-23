@@ -2,7 +2,7 @@ package com.rodrigotroy.commons.model.datatable;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gather-commons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 4/5/17
  * Time: 18:29
@@ -18,7 +18,7 @@ public enum DataType {
     DUMMY_RUT(100),
     DUMMY_NOMBRE_CLIENTE(101);
 
-    private Integer value;
+    private final Integer value;
 
     DataType(Integer value) {
         this.value = value;

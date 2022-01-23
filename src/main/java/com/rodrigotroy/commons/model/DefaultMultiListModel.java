@@ -5,13 +5,13 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gathercommons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 2019-02-15
  * Time: 16:37
  */
 public class DefaultMultiListModel implements IMultiListModel {
-    private List<List<List<Object>>> datasets;
+    private final List<List<List<Object>>> datasets;
 
     public DefaultMultiListModel() {
         this.datasets = new ArrayList<>();

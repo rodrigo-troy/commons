@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gathercommons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 04-03-20
  * Time: 13:13
@@ -65,7 +65,7 @@ public class DataTableFactory {
     public static <T extends IListHolder> IDataTable<T> createDatatable(IDataTableModel dataTableModel,
                                                                         IHeaderBuilder headerBuilder,
                                                                         IDomainObjectMapper<T> domainObjectMapper) {
-        DataTable<T> dataTable = new DataTable<T>();
+        DataTable<T> dataTable = new DataTable<>();
 
         if (domainObjectMapper == null) {
             throw new NullPointerException("NO EXISTE UN MAPPER");

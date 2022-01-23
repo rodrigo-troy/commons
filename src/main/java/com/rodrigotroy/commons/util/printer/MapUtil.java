@@ -32,7 +32,7 @@ public class MapUtil {
                 } else if (o instanceof Double) {
                     sb.append(decimalFormat.format(o));
                 } else {
-                    sb.append(o.toString());
+                    sb.append(o);
                 }
 
                 sb.append(",");

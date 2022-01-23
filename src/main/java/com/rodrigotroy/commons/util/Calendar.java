@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gathercommons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 8/23/17
  * Time: 12:25
