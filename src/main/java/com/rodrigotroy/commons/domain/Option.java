@@ -4,7 +4,7 @@ import com.rodrigotroy.commons.model.IEnum;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gathercommons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 2019-05-09
  * Time: 19:51

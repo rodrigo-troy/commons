@@ -18,7 +18,7 @@ import static java.sql.Statement.SUCCESS_NO_INFO;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gathercommons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 10-11-15
  * Time: 10:48

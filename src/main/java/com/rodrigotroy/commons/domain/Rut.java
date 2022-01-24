@@ -6,7 +6,7 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * Created with IntelliJ IDEA.
- * $ Project: gathercommons
+ * $ Project: commons
  * User: rodrigotroy
  * Date: 11/14/17
  * Time: 12:49
